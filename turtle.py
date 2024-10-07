@@ -3,6 +3,7 @@ import colorsys
 
 # inicial configuration
 tortuga = turtle.Turtle()
+tortuga.speed(0)
 turtle.Screen().bgcolor("black")
 
 # variables to color
